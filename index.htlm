@@ -1,10 +1,67 @@
+
 <!DOCTYPE html>
 <html>
-<head>
-</head>
-<body>
-<p> This is my picture </p>
-<img src="http://2.bp.blogspot.com/-PAvGrcRDgPE/VWxqyO7DrZI/AAAAAAAAACs/jmhOQGkQdiU/s1600/Platano-Bailando-50783.gif">
-</body>
-</head>
-</hmtl>
+	<head>
+		<title>Jesse's awesome website</title>
+	</head>
+		<h1 style="background-color: white">
+	<span style="color:#f00">J</span>
+	<span style="color:#f50">e</span>
+	<span style="color:#ff0">s</span>
+	<span style="color:#5f0">s</span>
+	<span style="color:#D4AC0D">e</span>
+	<span style="color:#FDFEFE">_</span>
+	<span style="color:#A04000">L</span>
+	<span style="color:#B3B6B7">e</span>
+	<span style="color:#717D7E">o</span>
+	<span style="color:#283747">n</span>
+	<span style="color:#C0392B">'</span>
+	<span style="color:#E74C3C">s</span>
+	<span style="color:#FDFEFE">_</span>
+	<span style="color:#9B59B6">W</span>
+	<span style="color:#8E44AD">e</span>
+	<span style="color:#2980B9">b</span>
+	<span style="color:#3498DB">s</span>
+	<span style="color:#1ABC9C">i</span>
+	<span style="color:##16A085">t</span>
+	<span style="color:#229954">e</span>
+		<h2>
+	    <body style="background-color: orange">
+		<IMG SRC="http://www.reactiongifs.com/wp-content/uploads/2013/07/ralph-wave.gif">
+		<h2 style="font-family: Courier New; color: blue; font-size: 75px"> Welcome to Jesse's website</h2>
+
+		<p style="font-family: Comic Sans MS"> This is how you become an admin on this website</p>
+		<iframe src="https://www.youtube.com/watch?v=4U7889m9RJE"
+   width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<p> </p>
+<picture>
+            <source srcset=http://bit.ly/2buImj4 media="(max-width: 800px)" >
+            <source srcset=http://bit.ly/2b65YLu media="(min-width: 900px)" >
+            <img src=http://bit.ly/2buImj4 alt="World Map">
+</picture>
+
+
+
+
+Choose a color to color the below text <input id="color_picker" type="color" onchange="showHex();"> <span id="color_hex_value"></span>
+    <h1 style="font-family: Comic Sans MS; font-size: 50px">Litty!</h1>
+
+
+
+
+    Select your most favorite brand :
+    <select>
+
+    <option value="">Select an option</option>
+    <optgroup label="Brands">
+        <option value="">Adidas</option>
+        <option value="">Nike</option>
+        <option value="">Jordan</option>
+        <option value="">Levis</option>
+        <option value="">Armani</option>
+        <option value="">Express</option>
+    </optgroup>
+
+	    </body>
+
+</html>
