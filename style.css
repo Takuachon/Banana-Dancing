@@ -1,0 +1,68 @@
+h1 {
+  color: #FF00FF;
+  font-size: 48px;
+}
+
+#neonwolf{
+  height: 300px;
+  width: 400px;
+}
+
+@keyframes swageffect{
+    0%  {color:red;}
+   25%  {color:yellow;}
+   50%  {color:blue;}
+   75%  {color:green;}
+   100% {color:red;}
+}
+@-webkit-keyframes swageffect{
+    0%  {color:red;}
+   25%  {color:yellow;}
+   50%  {color:blue;}
+   75%  {color:green;}
+   100% {color:red;}
+}
+@keyframes chilleffect{
+  0%  {color:#00ffff;}
+ 25%  {color:#FF00FF;}
+ 50%  {color:#4B0082;}
+ 75%  {color:#DAA520;}
+ 100% {color:#00ffff;}
+}
+@-webkit-keyframes chilleffect{
+  0%  {color:#00ffff;}
+  25%  {color:#FF00FF;}
+  50%  {color:#4B0082;}
+  75%  {color:#DAA520;}
+  100% {color:#00ffff;}
+}
+
+#swagmessage{
+  -webkit-animation-name: swageffect; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 1s;
+  animation-name: swageffect;
+  font-size: 60px;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+}
+
+#jukeboxtitle{
+  font-size: 16px;
+  font-style: oblique;
+  font-family: monospace;
+
+  -webkit-animation-name: chilleffect; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 5s;
+  animation-name: chilleffect;
+  font-size: 60px;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+}
+
+#suggestion{
+  font-size: 10px;
+  font-style: italic;
+  font-family: cursive;
+}
